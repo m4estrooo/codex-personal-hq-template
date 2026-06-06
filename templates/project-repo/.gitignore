@@ -1,0 +1,44 @@
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+credentials/
+cookies/
+tokens/
+
+# Logs and temporary files
+*.log
+logs/
+tmp/
+temp/
+.tmp/
+.cache/
+.DS_Store
+Thumbs.db
+
+# Dependencies and build outputs
+node_modules/
+dist/
+build/
+coverage/
+.next/
+.nuxt/
+target/
+
+# Codex/local generated state
+.codex-log/
+session-*.jsonl
+*.local.md
+work/
+outputs/
+
+# OS/editor
+.idea/
+.vscode/
+*.swp
+*.swo
