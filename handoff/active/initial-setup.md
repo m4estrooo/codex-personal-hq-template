@@ -21,7 +21,7 @@
 
 ## Следующий конкретный шаг
 
-Заменить примеры на реальные правила и проекты владельца.
+Заполнить личные правила, первые задачи и при необходимости первые проекты владельца.
 
 ## Открытые вопросы
 
@@ -34,7 +34,6 @@
 - `README.md`
 - `AGENTS.md`
 - `templates/codex-global/AGENTS.md`
-- `projects/example-project/overview.md`
 - `tasks/active/initial-setup.md`
 
 ## Риски
